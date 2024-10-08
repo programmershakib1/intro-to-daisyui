@@ -20,4 +20,4 @@
     
 ## Live link
 
-   ### **[https://assignment-6-batch-10.netlify.app/]**
+   [https://assignment-6-batch-10.netlify.app/](https://assignment-6-batch-10.netlify.app/)
